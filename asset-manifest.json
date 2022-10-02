@@ -1,15 +1,15 @@
 {
-  "main.css": "/Texters/static/css/main.ce0cd084.chunk.css",
-  "main.js": "/Texters/static/js/main.4b6fbfa3.chunk.js",
-  "main.js.map": "/Texters/static/js/main.4b6fbfa3.chunk.js.map",
-  "runtime~main.js": "/Texters/static/js/runtime~main.bb0c0ab1.js",
-  "runtime~main.js.map": "/Texters/static/js/runtime~main.bb0c0ab1.js.map",
-  "static/js/2.3f9b2d3a.chunk.js": "/Texters/static/js/2.3f9b2d3a.chunk.js",
-  "static/js/2.3f9b2d3a.chunk.js.map": "/Texters/static/js/2.3f9b2d3a.chunk.js.map",
-  "static/js/3.398cb210.chunk.js": "/Texters/static/js/3.398cb210.chunk.js",
-  "static/js/3.398cb210.chunk.js.map": "/Texters/static/js/3.398cb210.chunk.js.map",
-  "index.html": "/Texters/index.html",
-  "precache-manifest.e45a8b7b452bfe1b40d92940338afd7d.js": "/Texters/precache-manifest.e45a8b7b452bfe1b40d92940338afd7d.js",
-  "service-worker.js": "/Texters/service-worker.js",
-  "static/css/main.ce0cd084.chunk.css.map": "/Texters/static/css/main.ce0cd084.chunk.css.map"
+  "files": {
+    "main.css": "/Texters/static/css/main.e4eb7491.css",
+    "main.js": "/Texters/static/js/main.46f68505.js",
+    "static/js/787.28cb0dcd.chunk.js": "/Texters/static/js/787.28cb0dcd.chunk.js",
+    "index.html": "/Texters/index.html",
+    "main.e4eb7491.css.map": "/Texters/static/css/main.e4eb7491.css.map",
+    "main.46f68505.js.map": "/Texters/static/js/main.46f68505.js.map",
+    "787.28cb0dcd.chunk.js.map": "/Texters/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e4eb7491.css",
+    "static/js/main.46f68505.js"
+  ]
 }
