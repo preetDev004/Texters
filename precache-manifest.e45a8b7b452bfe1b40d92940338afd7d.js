@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "52fdf3659b3d8e5c4474",
+    "revision": "ab7f2b0a34cb4136f2cf",
     "url": "/Texters/static/css/main.ce0cd084.chunk.css"
   },
   {
-    "revision": "52fdf3659b3d8e5c4474",
-    "url": "/Texters/static/js/main.021fbcb5.chunk.js"
+    "revision": "ab7f2b0a34cb4136f2cf",
+    "url": "/Texters/static/js/main.4b6fbfa3.chunk.js"
   },
   {
     "revision": "f19f4e94bfb2efef9b68",
@@ -20,7 +20,7 @@ self.__precacheManifest = [
     "url": "/Texters/static/js/3.398cb210.chunk.js"
   },
   {
-    "revision": "9c769af0cee1b5612019ca36e6eeba10",
+    "revision": "0d72aa3c478f45666400d2158fc5688e",
     "url": "/Texters/index.html"
   }
 ];
