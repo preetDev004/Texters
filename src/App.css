@@ -1,3 +1,4 @@
+
 .App {
   text-align: center;
 }
@@ -34,5 +35,15 @@
   }
   to {
     transform: rotate(360deg);
+  }
+}
+
+a{
+  text-decoration: none;
+  color: inherit;
+}
+@media (min-width:250px) and (max-width:850px) {
+  body{
+    font-size: 10px;
   }
 }
